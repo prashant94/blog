@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NaanPlayableCharacter</title>
+  
+  <subtitle>by Prashant Sinha</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.prashantsinha.info/"/>
+  <updated>2020-03-21T16:52:42.772Z</updated>
+  <id>https://blog.prashantsinha.info/</id>
+  
+  <author>
+    <name>NaanPlayableCharacter</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Epic Guitar Riffs</title>
+    <link href="https://blog.prashantsinha.info/2020/03/21/Epic-Guitar-Riffs/"/>
+    <id>https://blog.prashantsinha.info/2020/03/21/Epic-Guitar-Riffs/</id>
+    <published>2020-03-21T14:28:16.000Z</published>
+    <updated>2020-03-21T16:52:42.772Z</updated>
+    
+    <content type="html"><![CDATA[<p>A playlist of some of the greatest guitar riffs and intros from all time, played by me.  </p><a id="more"></a><p>I’m trying to learn and play of some of the greatest guitar riffs of all time in my opinion. I tried to play them as best as I could. Here’s the first one I uploaded.</p><div class="video-container"><iframe src="https://www.youtube.com/embed/ero1pE8qndA" frameborder="0" loading="lazy" allowfullscreen></iframe></div><p>If you like this, here’s a playlist of all my creations, where I’ll keep adding more as and when I get the chance. Please consider liking and subscribing if you enjoy! </p><div class="video-container"><iframe src="https://www.youtube.com/embed/7scyJnFT4LI&videoseries?list=PLlL9dCwilUkEu_c1170mY6kAb-_KM0XBX" frameborder="0" loading="lazy" allowfullscreen></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;A playlist of some of the greatest guitar riffs and intros from all time, played by me.  &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Music" scheme="https://blog.prashantsinha.info/categories/Music/"/>
+    
+    
+      <category term="Guitar" scheme="https://blog.prashantsinha.info/tags/Guitar/"/>
+    
+      <category term="Riffs" scheme="https://blog.prashantsinha.info/tags/Riffs/"/>
+    
+      <category term="Epic Guitar Riffs" scheme="https://blog.prashantsinha.info/tags/Epic-Guitar-Riffs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>May The Source Be With You!</title>
+    <link href="https://blog.prashantsinha.info/2017/06/06/0001-May-The-Source-Be-With-You/"/>
+    <id>https://blog.prashantsinha.info/2017/06/06/0001-May-The-Source-Be-With-You/</id>
+    <published>2017-06-06T11:33:50.000Z</published>
+    <updated>2017-06-06T19:47:27.758Z</updated>
+    
+    <content type="html"><![CDATA[<p>Here’s why I am switching from 3DS Max to Blender as my primary 3D software.  </p><a id="more"></a><h4 id="Switching-to-Blender"><a href="#Switching-to-Blender" class="headerlink" title="Switching to Blender"></a>Switching to Blender</h4><p>I have been a graphic designer and CGI artist for quite a while now, and primarily use 3DS Max for modelling and rendering. But lately, I have been planning to shift to Blender for a couple of reasons. Now, you may be the kind of person who thinks this isn’t a great idea. It isn’t uncommon for people in the animation and CGI industry to come up with hackneyed phrases like this - </p><blockquote><p>“The software is just a tool, at the end of the day it’s your skill that matters.”</p></blockquote><p>You may also be of the opinion that no matter which software you use, you are going to run into the same kind of issues.<br><br></p><div class="figure center" style="width:;"><a class="fancybox" href="img1.jpg" title="3D Software Problems" data-fancybox-group=""><img class="fig-img" src="img1.jpg" alt="3D Software Problems"></a><span class="caption">3D Software Problems</span></div><div style="clear:both;"></div><p>Some other clichéd criticisms include the fact that Blender is open source and will not work properly when required. <br><br></p><div class="figure center" style="width:;"><a class="fancybox" href="img2.jpg" title="Open Source Problems" data-fancybox-group=""><img class="fig-img" src="img2.jpg" alt="Open Source Problems"></a><span class="caption">Open Source Problems</span></div><div style="clear:both;"></div><p>If you have read till this point and have no idea what I’m on about, and have no clue what open source or 3D software package means, this post might not be for you. <br><br></p><div class="figure center" style="width:;"><a class="fancybox" href="img3.jpg" title="I'm Here By Mistake!" data-fancybox-group=""><img class="fig-img" src="img3.jpg" alt="I'm Here By Mistake!"></a><span class="caption">I'm Here By Mistake!</span></div><div style="clear:both;"></div><p>I’m going to try and address some of the seemingly valid criticisms mentioned here. You may or may not agree with these justifications, and I would be happy to see what any of you readers would have to say in the comments.</p><p>First of all, let me make this clear that I really like 3DS Max, and am not likely to complain about the lack of features in the package anytime soon. This isn’t some open source fanatical rant driven by religious fervour. I am quite happy with using proprietary software. I don’t see Autodesk as the devil and am certainly not on a mission to try and rid the world of  each and every paid software. I do however like the idea of individuals embracing open source software of their own volition. The open source community is a strong one, and has time and again proved itself by coming up with innovative and ingenious solutions to problems. At the same time, I understand that proprietary software has its merits, and is more useful in certain circumstances. <br><br></p><div class="figure center" style="width:;"><a class="fancybox" href="img4.jpg" title="Open Source and Proprietary" data-fancybox-group=""><img class="fig-img" src="img4.jpg" alt="Open Source and Proprietary"></a><span class="caption">Open Source and Proprietary</span></div><div style="clear:both;"></div><p>My switch is primarily motivated by other practical reasons. Graphic Design, Animation and CGI are, and will always be a hobby for me and not my primary profession. I consider myself to be a computer scientist first. I do take up freelance assignments related to animation once in a while, but that too not something very substantial. Precision isn’t something I am looking for. My aim with 3D graphics is to make it aesthetically pleasing, not rigorous and exact. For me, CGI is art, not construction. </p><h4 id="So-why-3DS-Max-in-the-first-place"><a href="#So-why-3DS-Max-in-the-first-place" class="headerlink" title="So why 3DS Max in the first place?"></a>So why 3DS Max in the first place?</h4><p>Good question. If art was my primary concern, why on earth did I choose a software package that is primarily geared towards precision and accuracy? If you are an interior designer or an architect, 3DS Max is a great software package. The tools in the Max arsenal are more than sufficient for modelling and rendering realistically without much hassle. But if it is artistic expression you are looking for, there are much better alternatives to Max. Don’t get me wrong; you can do pretty much anything in 3DS, it’s just that you would need to jump through a lot more hoops to get the same result.</p><p>I just happened to have chosen Max when I didn’t know any better. I wanted to get into animation and graphic design, and just downloaded the most recommended software on the internet. Little did I know that 3DS Max is extremely difficult for a beginner. It has a very steep learning curve due to the availability of so many options. The interface itself may be incredibly daunting for a beginner. My renders during my first year were pretty much appalling. They aren’t going to win any fans among those of you who have been blessed with the ability of sight, which is why I won’t post them here.<br><br></p><div class="figure center" style="width:;"><a class="fancybox" href="img5.jpg" title="3DS Max - So Difficult!" data-fancybox-group=""><img class="fig-img" src="img5.jpg" alt="3DS Max - So Difficult!"></a><span class="caption">3DS Max - So Difficult!</span></div><div style="clear:both;"></div><p>However, it is the sheer number of tools and options present in Max which make it so versatile. Which is why I stuck with it for a few years and learnt pretty much everything I know about 3D animation on it. It was difficult and certainly not without its problems, but it was definitely worth it. </p><p>Despite this, I have decided to give Max a break for a little while, as it does not suit my needs any more. I require more and more time to get the result I want, and have to wait for an eternity to get decent enough renders. <br><br></p><div class="figure center" style="width:;"><a class="fancybox" href="img6.jpg" title="Waiting For Eternity" data-fancybox-group=""><img class="fig-img" src="img6.jpg" alt="Waiting For Eternity"></a><span class="caption">Waiting For Eternity</span></div><div style="clear:both;"></div><p>Added to this was the fact the getting good results required plugins which were not part of the standard package, which more often than not were paid. This gets difficult if you are only a hobbyist. Also, proprietary software isn’t immune from bugs either, no matter how much other people may try to convince you otherwise.<br><br></p><div class="figure center" style="width:;"><a class="fancybox" href="img7.png" title="This happens all to often" data-fancybox-group=""><img class="fig-img" src="img7.png" alt="This happens all to often"></a><span class="caption">This happens all to often</span></div><div style="clear:both;"></div><p>This is why I decided to shift software for a little while and see where it goes.</p><h4 id="Why-Blender-then"><a href="#Why-Blender-then" class="headerlink" title="Why Blender then?"></a>Why Blender then?</h4><p>As I mentioned, I intend to use 3D software for artistic expression, and I found Blender to be very good at this. Back when I chose 3DS Max, Blender was still in its infancy, and was not really a professional software. It has come a long way since then. Blender can really give stiff competition to any of its paid competitors these days. You have to look no further than the artworks others have created on Blender to get a sense of what this software can do, and that too free of charge. The new cycles renderer is also great, and can render pretty much anything you could in Max. In my opinion, it even has a more intuitive UI, which would be ideal for any beginner. </p><p>That is not to say that Blender doesn’t have its own share of problems. My primary issue with it is the fact that Blender currently only supports CUDA properly. OpenCL support is there, but it is a bit shaky in my opinion. This means it is going to be very difficult using Blender if you have an AMD GPU. If you have nVidia, then Blender works great with that. <br><br></p><div class="figure center" style="width:;"><a class="fancybox" href="img8.jpg" title="Your reaction when you see blender doesn't support your GPU" data-fancybox-group=""><img class="fig-img" src="img8.jpg" alt="Your reaction when you see blender doesn't support your GPU"></a><span class="caption">Your reaction when you see blender doesn't support your GPU</span></div><div style="clear:both;"></div><p>It is also unjustifiably difficult in Blender to import some 3D formats. CAD just won’t import properly without some or the other mesh distortion which needs to be fixed. <br><br></p><div class="figure center" style="width:;"><a class="fancybox" href="img9.jpg" title="Ever had this Problem in Max?" data-fancybox-group=""><img class="fig-img" src="img9.jpg" alt="Ever had this Problem in Max?"></a><span class="caption">Ever had this Problem in Max?</span></div><div style="clear:both;"></div><p>Despite these problems, I feel the benefits far outweigh the costs for me. This may be quite different for you depending on what you do with your 3D software, but for me as a hobbyist, who needs faster creation and rendering times, and just wants to create interesting looking art, Blender seems like a great option.</p><p>I still have to get the hang of everything on Blender before I decide to post any of my work here. I will keep updating this blog with interesting art when I am satisfied with my renders.<br><br></p><div class="figure center" style="width:;"><a class="fancybox" href="img10.jpg" title="Much To Learn..." data-fancybox-group=""><img class="fig-img" src="img10.jpg" alt="Much To Learn..."></a><span class="caption">Much To Learn...</span></div><div style="clear:both;"></div><p>I hope this switch will be worth it. Wish me luck! </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Here’s why I am switching from 3DS Max to Blender as my primary 3D software.  &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="CGI" scheme="https://blog.prashantsinha.info/categories/CGI/"/>
+    
+    
+      <category term="CGI" scheme="https://blog.prashantsinha.info/tags/CGI/"/>
+    
+      <category term="3D" scheme="https://blog.prashantsinha.info/tags/3D/"/>
+    
+      <category term="Animation" scheme="https://blog.prashantsinha.info/tags/Animation/"/>
+    
+      <category term="Open Source" scheme="https://blog.prashantsinha.info/tags/Open-Source/"/>
+    
+      <category term="Blender" scheme="https://blog.prashantsinha.info/tags/Blender/"/>
+    
+  </entry>
+  
+</feed>
